@@ -5,7 +5,8 @@ Jednoduchá webová aplikace (1 soubor `index.html`), běží přímo v prohlí�
 **Spustit:** otevři `index.html`, nebo běžící GitHub Pages odkaz (Settings → Pages → větev `main`, kořen `/`).
 
 ## Jak to funguje (chytré učení)
-- Otázky se řadí do dávek po ~5: nejdřív nové, jakmile se „naučíš" aktuální, přijdou další; už zvládnuté se občas (cca 18 %) vracejí k procvičení
+- Otázky se řadí do dávek po max 5 aktivních: nové karty přibývají jen když jsou poslední odpovědi úspěšné — při 3+ špatných z posledních 5 se nové otázky nedávají; už zvládnuté se občas (cca 18 %) vracejí k procvičení
+- Ukazatel Zvládnuto se zobrazuje zeleně až po prvním reálně zvládnutém; plný X / 115 až od 90/115
 - Každá otázka má v pozadí skóre: nezodpovězené mají vysokou prioritu, čerstvě položené nižší (rotace v rámci dávky)
 - **2× špatně po sobě → priorita rapidně nahoru** (×6, pak ×2 za každou další chybu)
 - **3× správně za sebou → rapidně dolů**; pokud byla otázka předtím chybována, nejde hned o "zvládnuto" — dá se **pauza (~5 min, při opakování déle)** a pak se otázka ukáže znovu k ověření; teprve správně po pauze = definitivně zvládnuto
