@@ -155,14 +155,14 @@
  },
  {
   "id": 11,
-  "q": "Koučování jako jedna z metod pro rozvoj lídrů používá model: S-C-C",
+  "q": "Koučování jako jedna z metod pro rozvoj lídrů používá model:",
   "opts": [
    "HIGH",
    "OCEAN",
    "GROW",
    "FLOW",
    "DISC",
-   ""
+   "S-C-C"
   ],
   "correct": 2,
   "variants": [
@@ -774,14 +774,14 @@
  },
  {
   "id": 55,
-  "q": "Autentický lídr se vyznačuje: ničím z uvedeného",
+  "q": "Autentický lídr se vyznačuje:",
   "opts": [
    "sebekritičností",
    "silným, direktivním vedením",
    "uvědomováním si svých silných i slabých stránek",
    "laissez-faire stylem vedení",
    "sebeprosazováním",
-   ""
+   "ničím z uvedeného"
   ],
   "correct": 2,
   "variants": [
